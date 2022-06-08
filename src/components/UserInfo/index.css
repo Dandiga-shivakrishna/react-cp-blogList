@@ -1,0 +1,22 @@
+.contact-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+.contact-img {
+  height: 150px;
+  width: 150px;
+}
+
+.contact-heading {
+  color: #12022f;
+  font-size: 22px;
+}
+.about-paragraph {
+  font-family: 'Roboto';
+  font-size: 20px;
+  text-align: center;
+  color: #555555;
+}
